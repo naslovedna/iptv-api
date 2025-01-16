@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-01-16 19:20:18" tvg-logo="https://live.fanmingming.com/tv/2025-01-16 19:20:18.png" group-title="更新时间",2025-01-16 19:20:18
+#EXTINF:-1 tvg-name="2025-01-17 06:37:52" tvg-logo="https://live.fanmingming.com/tv/2025-01-17 06:37:52.png" group-title="更新时间",2025-01-17 06:37:52
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -1753,12 +1753,12 @@ http://113.9.142.25:88/rtp/229.58.190.96:5000$黑龙江联通组播源
 http://171.117.125.78:8888/rtp/226.0.2.44:8264$山西联通组播源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
 http://113.26.65.49:18000/rtp/239.1.1.64:8064$山西电信组播源
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
-http://117.27.190.42:9998/rtp/239.61.2.70:8414$福建电信组播源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="☘️上海频道",新闻综合
 http://139.129.231.228:50060/rtp/239.21.1.193:5002$山东电信组播源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="☘️上海频道",新闻综合
 http://139.129.231.228:3529/rtp/239.21.1.193:5002$山东电信组播源
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="☘️上海频道",新闻综合
+http://113.140.86.162:8009/rtp/239.111.205.242:5140$陕西电信组播源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
 http://121.232.178.93:5000/rtp/239.49.8.182:6000$江苏电信组播源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
@@ -1766,7 +1766,7 @@ http://111.78.22.98:9901/rtp/239.252.219.224:5140$江西电信组播源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
 http://117.90.196.35:6000/rtp/239.49.8.182:6000$江苏电信组播源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
-http://117.27.190.42:9998/rtp/239.61.2.146:8864$福建电信组播源
+http://113.140.86.162:8009/rtp/239.112.205.236:5140$陕西电信组播源
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="☘️上海频道",法治天地
 http://171.118.233.231:9999/rtp/226.0.2.83:8576$山西联通组播源
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="☘️上海频道",法治天地
@@ -1869,8 +1869,6 @@ http://112.114.137.78:888/rtp/239.200.200.98:8052$云南电信组播源
 http://112.114.137.80:888/rtp/239.200.200.98:8052$云南电信组播源
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
 http://112.114.137.93:888/rtp/239.200.200.98:8052$云南电信组播源
-#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
-http://220.164.192.48:50085/rtp/239.200.200.98:8052$云南电信组播源
 #EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://live.fanmingming.com/tv/东海新闻.png" group-title="☘️江苏频道",东海新闻
 http://121.232.178.93:5000/rtp/239.49.1.136:6000$江苏电信组播源
 #EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://live.fanmingming.com/tv/东海新闻.png" group-title="☘️江苏频道",东海新闻
@@ -2222,11 +2220,7 @@ http://183.94.146.109:2222/rtp/228.0.0.126:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="☘️湖北频道",湖北综合
 http://58.48.37.158:1111/rtp/239.69.1.42:9892$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="☘️湖北频道",湖北综合
-http://221.233.192.152:1111/rtp/239.69.1.42:9892$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="☘️湖北频道",湖北综合
-http://59.173.243.210:9901/rtp/239.69.1.42:9892$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.fanmingming.com/tv/湖北综合.png" group-title="☘️湖北频道",湖北综合
-http://183.94.1.118:8801/rtp/228.0.0.126:6108$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.42:9892$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
 http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588$湖北酒店源
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
@@ -2244,11 +2238,7 @@ http://183.94.146.109:2222/rtp/228.0.0.125:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
 http://58.48.37.158:1111/rtp/239.69.1.41:9886$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
-http://221.233.192.152:1111/rtp/239.69.1.41:9886$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
-http://59.173.243.210:9901/rtp/239.69.1.41:9886$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="☘️湖北频道",湖北经视
-http://183.94.1.118:8801/rtp/228.0.0.125:6108$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.41:9886$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
 http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000169$湖北酒店源
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
@@ -2262,11 +2252,7 @@ http://183.94.146.109:2222/rtp/228.0.0.204:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
 http://58.48.37.158:1111/rtp/239.69.1.205:10872$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
-http://221.233.192.152:1111/rtp/239.69.1.205:10872$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
-http://59.173.243.210:9901/rtp/239.69.1.205:10872$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.fanmingming.com/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
-http://183.94.1.118:8801/rtp/228.0.0.204:6108$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.205:10872$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
 http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000170$湖北酒店源
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
@@ -2280,11 +2266,7 @@ http://183.94.146.109:2222/rtp/228.0.0.206:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
 http://58.48.37.158:1111/rtp/239.69.1.206:10878$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
-http://221.233.192.152:1111/rtp/239.69.1.206:10878$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
-http://59.173.243.210:9901/rtp/239.69.1.206:10878$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.fanmingming.com/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
-http://183.94.1.118:8801/rtp/228.0.0.206:6108$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.206:10878$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
 http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000168$湖北酒店源
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
@@ -2300,11 +2282,7 @@ http://183.94.146.109:2222/rtp/228.0.0.205:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
 http://58.48.37.158:1111/rtp/239.69.1.204:10866$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
-http://221.233.192.152:1111/rtp/239.69.1.204:10866$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
-http://59.173.243.210:9901/rtp/239.69.1.204:10866$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.fanmingming.com/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
-http://183.94.1.118:8801/rtp/228.0.0.205:6108$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.204:10866$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="☘️湖北频道",湖北公共新闻
 http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="☘️湖北频道",湖北公共新闻
@@ -2314,9 +2292,7 @@ http://59.173.183.242:9901/rtp/239.69.1.40:9880$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="☘️湖北频道",湖北公共新闻
 http://58.48.37.158:1111/rtp/239.69.1.40:9880$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="☘️湖北频道",湖北公共新闻
-http://221.233.192.152:1111/rtp/239.69.1.40:9880$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.fanmingming.com/tv/湖北公共新闻.png" group-title="☘️湖北频道",湖北公共新闻
-http://59.173.243.210:9901/rtp/239.69.1.40:9880$湖北电信组播源
+http://61.136.172.236:9901/rtp/239.69.1.40:9880$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.com/tv/湖北公共.png" group-title="☘️湖北频道",湖北公共
 http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000172$湖北酒店源
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.com/tv/湖北公共.png" group-title="☘️湖北频道",湖北公共
@@ -2325,8 +2301,6 @@ http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/1000010000000005
 http://220.249.114.102:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.com/tv/湖北公共.png" group-title="☘️湖北频道",湖北公共
 http://183.94.146.109:2222/rtp/228.0.0.124:6108$湖北联通组播源
-#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://live.fanmingming.com/tv/湖北公共.png" group-title="☘️湖北频道",湖北公共
-http://183.94.1.118:8801/rtp/228.0.0.124:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
 http://58.19.133.144:9901rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600$湖北酒店源
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
@@ -2344,11 +2318,7 @@ http://183.94.146.109:2222/rtp/228.0.0.127:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
 http://58.48.37.158:1111/rtp/239.69.1.43:9898$湖北电信组播源
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
-http://221.233.192.152:1111/rtp/239.69.1.43:9898$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
-http://59.173.243.210:9901/rtp/239.69.1.43:9898$湖北电信组播源
-#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.fanmingming.com/tv/湖北垄上.png" group-title="☘️湖北频道",湖北垄上
-http://183.94.1.118:8801/rtp/228.0.0.127:6108$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.43:9898$湖北电信组播源
 #EXTINF:-1 tvg-name="武汉1新闻综合" tvg-logo="https://live.fanmingming.com/tv/武汉1新闻综合.png" group-title="☘️湖北频道",武汉1新闻综合
 http://59.173.243.210:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 #EXTINF:-1 tvg-name="武汉2电视剧" tvg-logo="https://live.fanmingming.com/tv/武汉2电视剧.png" group-title="☘️湖北频道",武汉2电视剧
@@ -2366,31 +2336,17 @@ http://183.94.146.109:2222/rtp/228.0.0.136:5136$湖北联通组播源
 #EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="☘️湖北频道",武汉教育
 http://58.48.37.158:1111/rtp/239.69.1.60:9994$湖北电信组播源
 #EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="☘️湖北频道",武汉教育
-http://221.233.192.152:1111/rtp/239.69.1.60:9994$湖北电信组播源
-#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="☘️湖北频道",武汉教育
-http://59.173.243.210:9901/rtp/239.69.1.60:9994$湖北电信组播源
-#EXTINF:-1 tvg-name="武汉教育" tvg-logo="https://live.fanmingming.com/tv/武汉教育.png" group-title="☘️湖北频道",武汉教育
-http://183.94.1.118:8801/rtp/228.0.0.136:5136$湖北联通组播源
+http://61.136.172.236:9901/rtp/239.69.1.60:9994$湖北电信组播源
 #EXTINF:-1 tvg-name="武汉经济" tvg-logo="https://live.fanmingming.com/tv/武汉经济.png" group-title="☘️湖北频道",武汉经济
 http://183.94.146.109:2222/rtp/228.0.0.131:5131$湖北联通组播源
-#EXTINF:-1 tvg-name="武汉经济" tvg-logo="https://live.fanmingming.com/tv/武汉经济.png" group-title="☘️湖北频道",武汉经济
-http://183.94.1.118:8801/rtp/228.0.0.131:5131$湖北联通组播源
 #EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="☘️湖北频道",武汉文体
 http://183.94.146.109:2222/rtp/228.0.0.164:7164$湖北联通组播源
-#EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://live.fanmingming.com/tv/武汉文体.png" group-title="☘️湖北频道",武汉文体
-http://183.94.1.118:8801/rtp/228.0.0.164:7164$湖北联通组播源
 #EXTINF:-1 tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/武汉外语.png" group-title="☘️湖北频道",武汉外语
 http://183.94.146.109:2222/rtp/228.0.0.133:5133$湖北联通组播源
-#EXTINF:-1 tvg-name="武汉外语" tvg-logo="https://live.fanmingming.com/tv/武汉外语.png" group-title="☘️湖北频道",武汉外语
-http://183.94.1.118:8801/rtp/228.0.0.133:5133$湖北联通组播源
 #EXTINF:-1 tvg-name="武汉生活" tvg-logo="https://live.fanmingming.com/tv/武汉生活.png" group-title="☘️湖北频道",武汉生活
 http://183.94.146.109:2222/rtp/228.0.0.89:6108$湖北联通组播源
-#EXTINF:-1 tvg-name="武汉生活" tvg-logo="https://live.fanmingming.com/tv/武汉生活.png" group-title="☘️湖北频道",武汉生活
-http://183.94.1.118:8801/rtp/228.0.0.89:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="武汉新闻" tvg-logo="https://live.fanmingming.com/tv/武汉新闻.png" group-title="☘️湖北频道",武汉新闻
 http://183.94.146.109:2222/rtp/228.0.0.162:7162$湖北联通组播源
-#EXTINF:-1 tvg-name="武汉新闻" tvg-logo="https://live.fanmingming.com/tv/武汉新闻.png" group-title="☘️湖北频道",武汉新闻
-http://183.94.1.118:8801/rtp/228.0.0.162:7162$湖北联通组播源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="☘️天津频道",天津卫视
 http://202.168.187.221:9999http://i2.ekesh.cn:4001/rtp/239.12.21.48:10001$广东酒店源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="☘️天津频道",天津卫视
@@ -2419,6 +2375,14 @@ http://171.118.233.231:9999/rtp/226.0.2.148:9096$山西联通组播源
 http://171.118.232.109:9999/rtp/226.0.2.148:9096$山西联通组播源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="☘️天津频道",天津卫视
 http://171.118.232.143:9999/rtp/226.0.2.148:9096$山西联通组播源
+#EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://live.fanmingming.com/tv/陕西生活.png" group-title="☘️陕西频道",陕西生活
+http://113.140.86.162:8009/rtp/239.112.205.20:5140$陕西电信组播源
+#EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://live.fanmingming.com/tv/陕西公共.png" group-title="☘️陕西频道",陕西公共
+http://113.140.86.162:8009/rtp/239.112.205.22:5140$陕西电信组播源
+#EXTINF:-1 tvg-name="陕西影视" tvg-logo="https://live.fanmingming.com/tv/陕西影视.png" group-title="☘️陕西频道",陕西影视
+http://113.140.86.162:8009/rtp/239.112.205.21:5140$陕西电信组播源
+#EXTINF:-1 tvg-name="汉中综合" tvg-logo="https://live.fanmingming.com/tv/汉中综合.png" group-title="☘️陕西频道",汉中综合
+http://113.140.86.162:8009/rtp/239.112.205.215:5140$陕西电信组播源
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 http://139.129.231.228:50060/rtp/239.21.2.6:5002$山东电信组播源
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
@@ -2439,20 +2403,6 @@ http://175.171.2.30:777/rtp/232.0.0.160:1234$辽宁联通组播源
 http://123.10.77.114:808/rtp/225.1.4.95:1124$河南联通组播源
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 http://113.26.65.49:18000/rtp/239.1.1.71:8071$山西电信组播源
-#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
-http://117.27.190.42:9998/rtp/239.61.2.4:8018$福建电信组播源
-#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="☘️福建频道",福建电视剧
-http://117.27.190.42:9998/rtp/239.61.2.5:8024$福建电信组播源
-#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="☘️福建频道",福建综合
-http://117.27.190.42:9998/rtp/239.61.2.1:8000$福建电信组播源
-#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="☘️福建频道",福建公共
-http://117.27.190.42:9998/rtp/239.61.2.3:8012$福建电信组播源
-#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="☘️福建频道",福建旅游
-http://117.27.190.42:9998/rtp/239.61.2.6:8030$福建电信组播源
-#EXTINF:-1 tvg-name="福建体育" tvg-logo="https://live.fanmingming.com/tv/福建体育.png" group-title="☘️福建频道",福建体育
-http://117.27.190.42:9998/rtp/239.61.2.160:8948$福建电信组播源
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="☘️福建频道",福建少儿
-http://117.27.190.42:9998/rtp/239.61.2.9:8048$福建电信组播源
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="☘️河南频道",梨园
 http://112.114.137.86:888/rtp/239.200.200.101:8048$云南电信组播源
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="☘️河南频道",梨园
@@ -2693,22 +2643,10 @@ http://123.10.77.225:808/rtp/225.1.4.47:1076$河南联通组播源
 http://139.129.231.228:50060/rtp/239.21.1.208:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="☘️山东频道",山东少儿
 http://139.129.231.228:3529/rtp/239.21.1.208:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="☘️山东频道",山东少儿
-http://221.2.148.205:8154/rtp/239.253.254.25:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="☘️山东频道",山东少儿
-http://124.128.73.58:9901/rtp/239.253.254.25:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="☘️山东频道",山东少儿
-http://123.129.70.178:9901/rtp/239.253.254.25:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
 http://139.129.231.228:50060/rtp/239.21.1.140:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
 http://139.129.231.228:3529/rtp/239.21.1.140:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
-http://221.2.148.205:8154/rtp/239.253.254.23:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
-http://124.128.73.58:9901/rtp/239.253.254.23:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png" group-title="☘️山东频道",山东新闻
-http://123.129.70.178:9901/rtp/239.253.254.23:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东国际" tvg-logo="https://live.fanmingming.com/tv/山东国际.png" group-title="☘️山东频道",山东国际
 http://139.129.231.228:50060/rtp/239.21.1.61:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东国际" tvg-logo="https://live.fanmingming.com/tv/山东国际.png" group-title="☘️山东频道",山东国际
@@ -2741,62 +2679,26 @@ http://139.129.231.228:3529/rtp/239.21.1.112:5002$山东电信组播源
 http://139.129.231.228:50060/rtp/239.21.1.183:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="☘️山东频道",山东农科
 http://139.129.231.228:3529/rtp/239.21.1.183:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="☘️山东频道",山东农科
-http://221.2.148.205:8154/rtp/239.253.254.24:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="☘️山东频道",山东农科
-http://124.128.73.58:9901/rtp/239.253.254.24:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png" group-title="☘️山东频道",山东农科
-http://123.129.70.178:9901/rtp/239.253.254.24:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
 http://139.129.231.228:50060/rtp/239.21.1.134:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
 http://139.129.231.228:3529/rtp/239.21.1.134:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
-http://221.2.148.205:8154/rtp/239.253.254.114:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
-http://124.128.73.58:9901/rtp/239.253.254.114:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png" group-title="☘️山东频道",山东齐鲁
-http://123.129.70.178:9901/rtp/239.253.254.114:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="☘️山东频道",山东生活
 http://139.129.231.228:50060/rtp/239.21.1.175:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="☘️山东频道",山东生活
 http://139.129.231.228:3529/rtp/239.21.1.175:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="☘️山东频道",山东生活
-http://221.2.148.205:8154/rtp/239.253.254.151:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="☘️山东频道",山东生活
-http://124.128.73.58:9901/rtp/239.253.254.151:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png" group-title="☘️山东频道",山东生活
-http://123.129.70.178:9901/rtp/239.253.254.151:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
 http://139.129.231.228:50060/rtp/239.21.1.141:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
 http://139.129.231.228:3529/rtp/239.21.1.141:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
-http://221.2.148.205:8154/rtp/239.253.254.22:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
-http://124.128.73.58:9901/rtp/239.253.254.22:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="☘️山东频道",山东体育
-http://123.129.70.178:9901/rtp/239.253.254.22:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="☘️山东频道",山东文旅
 http://139.129.231.228:50060/rtp/239.21.1.176:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="☘️山东频道",山东文旅
 http://139.129.231.228:3529/rtp/239.21.1.176:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="☘️山东频道",山东文旅
-http://221.2.148.205:8154/rtp/239.253.254.160:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="☘️山东频道",山东文旅
-http://124.128.73.58:9901/rtp/239.253.254.160:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png" group-title="☘️山东频道",山东文旅
-http://123.129.70.178:9901/rtp/239.253.254.160:8000$山东联通组播源
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
 http://139.129.231.228:50060/rtp/239.21.1.177:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
 http://139.129.231.228:3529/rtp/239.21.1.177:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
-http://221.2.148.205:8154/rtp/239.253.254.159:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
-http://124.128.73.58:9901/rtp/239.253.254.159:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png" group-title="☘️山东频道",山东综艺
-http://123.129.70.178:9901/rtp/239.253.254.159:8000$山东联通组播源
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://live.fanmingming.com/tv/济南都市.png" group-title="☘️山东频道",济南都市
 http://139.129.231.228:50060/rtp/239.21.1.63:5002$山东电信组播源
 #EXTINF:-1 tvg-name="济南都市" tvg-logo="https://live.fanmingming.com/tv/济南都市.png" group-title="☘️山东频道",济南都市
@@ -3021,8 +2923,6 @@ http://112.114.137.78:888/rtp/239.200.200.13:8848$云南电信组播源
 http://112.114.137.80:888/rtp/239.200.200.13:8848$云南电信组播源
 #EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="☘️云南频道",云南娱乐
 http://112.114.137.93:888/rtp/239.200.200.13:8848$云南电信组播源
-#EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://live.fanmingming.com/tv/云南娱乐.png" group-title="☘️云南频道",云南娱乐
-http://220.164.192.48:50085/rtp/239.200.200.13:8848$云南电信组播源
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="☘️云南频道",云南少儿
 http://112.114.137.86:888/rtp/239.200.200.32:8864$云南电信组播源
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="☘️云南频道",云南少儿
@@ -3031,8 +2931,6 @@ http://112.114.137.78:888/rtp/239.200.200.32:8864$云南电信组播源
 http://112.114.137.80:888/rtp/239.200.200.32:8864$云南电信组播源
 #EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="☘️云南频道",云南少儿
 http://112.114.137.93:888/rtp/239.200.200.32:8864$云南电信组播源
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://live.fanmingming.com/tv/云南少儿.png" group-title="☘️云南频道",云南少儿
-http://220.164.192.48:50085/rtp/239.200.200.32:8864$云南电信组播源
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="☘️黑龙江频道",黑龙江文体
 http://113.9.142.25:88/rtp/229.58.190.116:5000$黑龙江联通组播源
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="☘️黑龙江频道",黑龙江影视
@@ -3195,8 +3093,6 @@ http://113.101.119.94:8090/rtp/239.253.43.70:5146$广东电信组播源
 http://113.101.119.94:8090/rtp/239.253.43.75:5146$广东电信组播源
 #EXTINF:-1 tvg-name="深圳体育" tvg-logo="https://live.fanmingming.com/tv/深圳体育.png" group-title="🏀体育频道",深圳体育
 http://10.8.8.233:4021/rtp/239.77.1.140:5146$广东酒店源
-#EXTINF:-1 tvg-name="福建体育" tvg-logo="https://live.fanmingming.com/tv/福建体育.png" group-title="🏀体育频道",福建体育
-http://117.27.190.42:9998/rtp/239.61.2.160:8948$福建电信组播源
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="🏀体育频道",辽宁体育
 http://113.235.144.112:777/rtp/232.0.0.164:1234$辽宁联通组播源
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://live.fanmingming.com/tv/辽宁体育.png" group-title="🏀体育频道",辽宁体育
@@ -3209,12 +3105,6 @@ http://175.171.2.30:777/rtp/232.0.0.164:1234$辽宁联通组播源
 http://139.129.231.228:50060/rtp/239.21.1.141:5002$山东电信组播源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="🏀体育频道",山东体育
 http://139.129.231.228:3529/rtp/239.21.1.141:5002$山东电信组播源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="🏀体育频道",山东体育
-http://221.2.148.205:8154/rtp/239.253.254.22:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="🏀体育频道",山东体育
-http://124.128.73.58:9901/rtp/239.253.254.22:8000$山东联通组播源
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="🏀体育频道",山东体育
-http://123.129.70.178:9901/rtp/239.253.254.22:8000$山东联通组播源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png" group-title="🏀体育频道",江苏体育
 http://121.232.178.93:5000/rtp/239.49.8.117:8000$江苏电信组播源
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.com/tv/江苏体育.png" group-title="🏀体育频道",江苏体育
@@ -3257,12 +3147,6 @@ http://117.90.196.35:6000/rtp/239.49.1.179:6000$江苏电信组播源
 http://117.90.196.35:6000/rtp/239.49.8.181:6000$江苏电信组播源
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://113.26.65.49:18000/rtp/239.1.1.75:8075$山西电信组播源
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
-http://221.2.148.205:8154/rtp/239.253.254.100:8000$山东联通组播源
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
-http://124.128.73.58:9901/rtp/239.253.254.100:8000$山东联通组播源
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="🏀体育频道",魅力足球
-http://123.129.70.178:9901/rtp/239.253.254.100:8000$山东联通组播源
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://121.24.98.194:8090/rtp/239.253.93.211:6389$河北联通组播源
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
@@ -3499,8 +3383,6 @@ http://175.171.2.30:777/rtp/232.0.0.112:1234$辽宁联通组播源
 http://117.90.196.35:6000/rtp/239.49.1.71:6000$江苏电信组播源
 #EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://live.fanmingming.com/tv/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
 http://183.94.146.109:2222/rtp/228.0.0.78:6108$湖北联通组播源
-#EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://live.fanmingming.com/tv/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
-http://183.94.1.118:8801/rtp/228.0.0.78:6108$湖北联通组播源
 #EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://live.fanmingming.com/tv/海看电竞.png" group-title="🎮游戏频道",海看电竞
 http://139.129.231.228:50060/rtp/239.21.1.135:5002$山东电信组播源
 #EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://live.fanmingming.com/tv/海看电竞.png" group-title="🎮游戏频道",海看电竞
