@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-09 00:52:05,http://173.208.234.146/live/cctv11.m3u8$订阅源
+2026-11-09 09:49:45,http://173.208.234.146/live/cctv11.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-11,http://173.208.234.146/live/cctv11.m3u8$订阅源
@@ -23,10 +23,9 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 📡卫视频道,#genre#
 广东卫视,http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8$订阅源
 广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8$订阅源
-浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8$订阅源
 浙江卫视,http://45.192.97.170:8880/play/542.m3u8$订阅源
+浙江卫视,http://bztv.tvbus.cc:8081/cdnlive/zjws.m3u8$订阅源
 湖南卫视,http://bztv.tvbus.cc:8081/cdnlive/hnws.m3u8$订阅源
-湖南卫视,http://45.192.97.170:8880/play/476.m3u8$订阅源
 北京卫视,http://45.192.97.170:8880/play/509.m3u8$订阅源
 北京卫视,http://bztv.tvbus.cc:8081/cdnlive/bjws.m3u8$订阅源
 安徽卫视,http://45.192.97.170:8880/play/508.m3u8$订阅源
@@ -36,9 +35,8 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi$订阅源
 贵州卫视,http://45.192.97.170:8880/play/518.m3u8$订阅源
 河南卫视,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481$订阅源
-江苏卫视,http://45.192.97.170:8880/play/525.m3u8$订阅源
 江苏卫视,http://74.91.26.218:82/live/jswshd.m3u8$订阅源
-江苏卫视,https://stream2.jlntv.cn/sytv/sd/live.m3u8$订阅源
+江苏卫视,http://45.192.97.170:8880/play/525.m3u8$订阅源
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi$订阅源
 江西卫视,http://bztv.tvbus.cc:8081/cdnlive/jxws.m3u8$订阅源
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi$订阅源
@@ -48,11 +46,11 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi$订阅源
 陕西卫视,http://45.192.97.170:8880/play/534.m3u8$订阅源
 陕西卫视,http://bztv.tvbus.cc:8081/cdnlive/snws.m3u8$订阅源
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 深圳卫视,http://45.192.97.170:8880/play/537.m3u8$订阅源
 深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8$订阅源
 天津卫视,http://45.192.97.170:8880/play/538.m3u8$订阅源
 西藏卫视,https://live.264788.xyz/channel/xizangweishi$订阅源
-西藏卫视,http://59.39.89.130:60901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi$订阅源
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$订阅源
 云南卫视,http://45.192.97.170:8880/play/541.m3u8$订阅源
@@ -76,7 +74,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8$订阅源
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140$订阅源
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$订阅源
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8$订阅源
@@ -96,8 +93,8 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2$订阅源
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
-武进生活,http://live.wjyanghu.com/live/CH2.m3u8$订阅源
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8$订阅源
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw$订阅源
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8$订阅源
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv$订阅源
@@ -125,6 +122,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd$订阅源
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8$订阅源
+仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef$订阅源
 凉山新闻综合,rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd$订阅源
 凉山新闻综合,rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd$订阅源
 凉山语,rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd$订阅源
@@ -172,6 +170,7 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8$订阅源
 平凉新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8$订阅源
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8$订阅源
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8$订阅源
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8$订阅源
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944$订阅源
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8$订阅源
@@ -228,7 +227,6 @@ CETV-1,https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$订�
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8$订阅源
 通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8$订阅源
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781$订阅源
-汪清综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e3b65b&tk=6949f8ce7202$订阅源
 
 ☘️内蒙古频道,#genre#
 
